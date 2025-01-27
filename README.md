@@ -1,5 +1,3 @@
-<h3 align="center">Hi 👋! My name is tsotne and I'm a beginner front-end dev from georgia.</h3>
-
 ###
 
 <div align="center">
